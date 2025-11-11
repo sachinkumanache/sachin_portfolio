@@ -1,16 +1,87 @@
-# React + Vite
+# 💼 Sachin Kumanache — Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A personal portfolio website showcasing my projects, technical skills, and professional experience as a **Frontend Developer**.  
+Built using **React.js**, **Tailwind CSS**, and **Framer Motion**, this site highlights my journey, projects, and ways to connect.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Demo
+👉 [Visit My Portfolio](https://preeminent-mochi-e9bfe9.netlify.app/)
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🧠 About The Project
+This portfolio is a single-page responsive web app designed to:
+- Present my **skills, experience, and projects** in a clean, interactive way.  
+- Provide quick access to my **resume, GitHub, and LinkedIn**.  
+- Feature smooth animations and a modern **dark/light mode toggle** for better user experience.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+- **Frontend:** React.js, Tailwind CSS, Framer Motion  
+- **Icons:** React Icons  
+- **Hosting:** Netlify / Vercel  
+- **Form Handling:** Formspree  
+
+---
+
+## 📂 Project Structure
+my-portfolio/      
+├── public/      
+│ ├── sachin-profile.png    
+│ └── ...   
+├── src/     
+│ ├── components/   
+│ ├── assets/    
+│ └── App.jsx     
+├── package.json     
+└── README.md     
+
+----
+## ⚙️ Installation & Setup
+To run this project locally:
+
+```bash
+# Clone the repository
+git clone https://github.com/sachinkumanache/sachin_portfolio.git
+
+# Navigate into the folder
+cd sachin_portfolio
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm run dev
+```
+
+
+
+## 🖥️ Features
+
+🎨 Responsive design (works on all devices)
+
+🌙 Light/Dark theme toggle
+
+✨ Smooth animations with Framer Motion
+
+🔗 Links to live projects and GitHub repos
+
+📬 Contact form connected via Formspree
+
+⚡ Fast loading and clean code structure
+
+## Author
+
+Sachin Kumanache
+Frontend Developer | React.js | JavaScript | Tailwind CSS
+📧 kumanache@gmail.com
+
+🔗 LinkedIn https://www.linkedin.com/in/sachin-kumanache/
+
+🔗 GitHub https://github.com/sachinkumanache/sachin_portfolio
+
+
+
+
